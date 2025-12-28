@@ -8,8 +8,14 @@
 
 
 4.) Dataset
-<br/>
+
+
 5.) Training
+
+
 6.) Test results
+
+
 7.) Overview 
+
 
